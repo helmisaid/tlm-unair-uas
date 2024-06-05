@@ -1,0 +1,48 @@
+.topbar{
+    a{
+        svg{
+            transform:scale(0.7)
+        }
+    }
+}
+
+
+.navbar{
+    .nav-item{
+        line-height:1em;
+    }
+    .navbar-toggler{
+        &:focus{
+            outline:none;
+        }
+    }
+}
+
+
+@media (min-width:768px){
+    .navbar{
+        .nav-item{
+            .nav-link{
+                position:relative;
+                &:before{
+                    transition:all ease 0.2s;
+                    width:0;
+                    height:1px;
+                    background:$theme-color;
+                    left:50%;
+                    bottom:0;
+                    content:'';
+                    position: absolute;
+                }
+                &:hover:before{
+                    width:100%;
+                    left:0;
+                }      
+            }
+            .nav-link.active{
+                color:#000;
+                font-weight:bold;
+            }
+        }
+    }
+}

@@ -1,0 +1,98 @@
+<h2 class="" style="text-align: center;">STAFF PENGAJAR</h2>
+<hr>
+<h4></h4>
+<h4 style="text-align: center;">Dwi Wahyu Indriati, S.Si, Ph.D</h4>
+<p style="text-align: center;"><img src="https://analis.vokasi.unair.ac.id/wp-content/uploads/2024/03/Foto-Dwi.jpg"></p>
+<p style="text-align: center;">Menyelesaikan pendidikan Sarjana dari Jurusan Biologi Fakultas Matematika dan Ilmu Pengetahuan Alam Universitas Brawijaya. Gelar Doktor diperoleh dari program 5 tahun Doktoral National Institute of Physiological Sciene, The Graduate University for Advanced Studies, Japan. Bergabung di Universitas Airlangga sebagai peneliti Institute of Tropical Disease di tahun 2014 sebelum bergabung sebagai dosen Prodi Teknologi Laboratorium Medik pada tahun 2016.</p>
+<p style="text-align: center;">Fokus topik penelitiannya adalah patogen resistan terhadap antimikrobia seperti virus dan bakteri serta mengembangkan teknik diagnosa cepat untuk patogen penyebab infeksi. Link publikasi dapat diakses di sini https://rb.gy/oswv</p>
+<p style="text-align: center;">Mata kuliah yang diampu : Bakteriologi, Virologi, Mikologi, Teknologi Diagnosa Molekuler, Bahasa Inggris Profesi.</p>
+<p style="text-align: center;"></p>
+<hr>
+<h4 style="text-align: center;">Nur Septia Handayani, S.K.M., M.PH</h4>
+<p style="text-align: center;"><img src="https://analis.vokasi.unair.ac.id/wp-content/uploads/2024/03/Nur-Septi.png"></p>
+<p style="text-align: center;">Gelar master diperoleh di program studi Ilmu Kesehatan Masyarakat Fakultas Kedokteran Universitas Gadjah Mada. Topik penelitian dan pengabdian masyarakat berfokus pada bidang Kesehatan Masyarakat, Gizi Masyarakat, serta Hematologi termasuk aplikasi pemeriksaan Hematologi pada Kesehatan Masyarakat.</p>
+<p style="text-align: center;"></p>
+<p style="text-align: center;">Mata kuliah yang diampu: Hematologi, Manajemen Laboratorium, K3 Laboratorium, Ilmu Kesehatan Masyarakat.</p>
+<p style="text-align: center;"></p>
+<h4 style="text-align: center;"></h4>
+<hr>
+<h4 style="text-align: center;">Dr. Anita Kurniati, S.Si, M.Si</h4>
+<h4 style="text-align: center;"><img src="https://analis.vokasi.unair.ac.id/wp-content/uploads/2024/03/Anita-Kurniati.png"></h4>
+<p style="text-align: center;">Memperoleh gelar Doktoral di program studi S3 MIPA Fakutas Sains dan Teknologi Universitas Airlangga bidang minat biokimia dengan topik tesis kearah biologi molekuler dan aplikasinya. Topik penelitian berfokus pada enzim dan aplikasinya, biologi molekuler dan kimia klinik serta biokimia.</p>
+<p style="text-align: center;"></p>
+<p style="text-align: center;">Mata kuliah yang diampu : Kimia dasar universitas, Kimia Klinik, Urinalisis dan Cairan tubuh, Biokimia, Toksikologi, Biologi sel, K3 Laboratorium, Bioteknologi (S2 Perikanan dan Kelautan).</p>
+<p style="text-align: center;"></p>
+<p style="text-align: center;"></p>
+<hr>
+<h4 style="text-align: center;">Ratna Wahyuni, S.Si, M.Kes, Ph.D</h4>
+<p style="text-align: center;"><img src="https://analis.vokasi.unair.ac.id/wp-content/uploads/2024/03/Ratna-min-769x1024.png" width="310" height="413"></p>
+<p style="text-align: center;">Lulusan S1 dari Fakultas Matematika dan Ilmu Pengetahuan Alam, Universitas Airlangga, Prodi Biologi dan S2 dari Fakultas Kedokteran, Universitas Airlangga, Prodi Ilmu Kedokteran Dasar, bidang minat Mikrobiologi Kedokteran. Gelar Doktor diperoleh dari Graduate School of Medicine, School of International Health, The University of Tokyo-Jepang, dengan bidang minat disertasi adalah parasitology dan cellular biology. Topik penelitian dan pengabdian masyarakat berfokus pada bidang microbiology dan parasitology, terutama host-pathogen interaction, bacterial-amoeba interaction dan pathogenesis dari Entamoeba histolytica, free-living amoeba dan Mycobacterium leprae.</p>
+<p style="text-align: center;"></p>
+<p style="text-align: center;">Mata kuliah yang diampu: Helmintologi, Protozoologi, Imunologi, Biologi Sel, dan Teknik Diagnosa Molekuler.</p>
+<p style="text-align: center;"></p>
+<hr>
+<h4 style="text-align: center;"></h4>
+<h4 style="text-align: center;">Aliyah Siti Sundari, S.Si, M.Si</h4>
+<p style="text-align: center;"><img src="https://analis.vokasi.unair.ac.id/wp-content/uploads/2024/03/IMG-20240328-WA0005-772x1024.jpg" width="297" height="394"></p>
+<p style="text-align: center;">Gelar master di bidang  Institute Teknologi Bandung.  Topik penelitian beliau difokuskan pada bahan alam dengan potensi antimikroba</p>
+<p style="text-align: center;">Link publikasi dapat diakses pada:</p>
+<p style="text-align: center;"></p>
+<p style="text-align: center;"></p>
+<p style="text-align: center;">Mata kuliah yang diampu  Bakteriologi, Mikologi, Instrumentasi Peralatan Medik dan Kendali mutu.</p>
+<p style="text-align: center;"></p>
+<p style="text-align: center;"></p>
+<hr>
+<h4 style="text-align: center;">Diyantoro, drh, M.Si</h4>
+<p style="text-align: center;"><img src="https://analis.vokasi.unair.ac.id/wp-content/uploads/2024/03/diyantoro.png" width="289" height="399"></p>
+<p style="text-align: center;">Gelar Sarjana Kedoteran Hewan diperoleh dari Fakultas Kedokteran Hewan Universitas Airlangga. Gelar Master di bidang Mikrobiologi Klinik diperoleh dari Institut Pertanian Bogor. Saat ini sedang menempuh pendidikan Doktoral di prodi S3 Ilmu Kedokteran Dasar Fakultas Kedokteran Universitas Airlangga</p>
+<p style="text-align: center;"></p>
+<p style="text-align: center;">Mata kuliah yang diampu: Bakteriologi, Mikologi, Spermatologi</p>
+<p style="text-align: center;"></p>
+<p style="text-align: center;"></p>
+<hr>
+<h4 style="text-align: center;">Rizka Oktarianti Ainun Jariah, S.Si, M.Sc</h4>
+<p style="text-align: center;"><img src="https://analis.vokasi.unair.ac.id/wp-content/uploads/2024/03/Rizka.jpg"></p>
+<p style="text-align: center;">Gelar Master of Science diperoleh dari Wagenigen University and Research Netherland. Sekarang sedang menempuh pendidikan Doktoral di Leichester University, UK.</p>
+<p style="text-align: center;"></p>
+<p style="text-align: center;">Fokus topik penelitiannya mengenai Bakteriofag.</p>
+<p style="text-align: center;"></p>
+<p style="text-align: center;">Mata kuliah yang diampu Imunologi Dasar, Virologi, Imunoserologi</p>
+<h4 style="text-align: center;"></h4>
+<hr>
+<h4 style="text-align: center;"></h4>
+<h4 style="text-align: center;">Amalia Ajrina, S.Si, M.Si</h4>
+<p style="text-align: center;"><img src="https://analis.vokasi.unair.ac.id/wp-content/uploads/2024/03/WhatsApp-Image-2024-03-28-at-9.25.03-AM-768x1024.jpeg" width="299" height="398"></p>
+<p style="text-align: center;">Gelar master bidang kimia medis di Program Studi Magister Kimia, Fakultas Sains dan Teknologi, Universitas Airlangga Surabaya. Fokus kegiatan Tridharma Perguruan Tinggi adalah bidang kimia klinik dengan spesifikasi pemanfaatan senyawa kimia pada aplikasi pemeriksaan kimia klinik.</p>
+<p style="text-align: center;"></p>
+<p style="text-align: center;">Mata kuliah yang diampu : Urinalisis dan Cairan Tubuh, Biokimia, Kimia Klinik, Toksikologi, dan Kimia Medis.</p>
+<p style="text-align: center;"></p>
+<hr>
+<p style="text-align: center;"></p>
+<h4 style="text-align: center;">Belgis, S.Si, M.Si</h4>
+<p style="text-align: center;"><img src="https://analis.vokasi.unair.ac.id/wp-content/uploads/2024/03/Belgis.png" width="257" height="342"></p>
+<p style="text-align: center;">Gelar master bidang kimia di Program Studi Magister Kimia, Fakultas Matematika dan Ilmu Pengetahuan Alam, Institut Teknologi Sepuluh Nopember. Fokus kegiatan Tridharma Perguruan Tinggi adalah bidang pengembangan pemeriksaan hematologi dengan metode sensor (biosensor dan kemosensor).</p>
+<p style="text-align: center;"></p>
+<p style="text-align: center;">Mata kuliah yang diampu : Hematologi, Biokimia, Toksikologi, dan Kimia Medis.</p>
+<p style="text-align: center;"></p>
+<hr>
+<p style="text-align: center;"></p>
+<h4 style="text-align: center;">Erlinda Widiastuti, dr, Sp.PK</h4>
+<p style="text-align: center;"><img src="https://analis.vokasi.unair.ac.id/wp-content/uploads/2024/03/Erlinda.png" width="280" height="329"></p>
+<p style="text-align: center;">Gelar Spesialis Patologi Klinik diperoleh dari Fakultas Kedokteran Universitas Airlangga. </p>
+<p style="text-align: center;"></p>
+<p style="text-align: center;">Mata kuliah yang diampu : Anatomi Ekstremitas Vaskular, Patofisiologi, Hematologi, Immunohematologi</p>
+<p style="text-align: center;"></p>
+<hr>
+<p style="text-align: center;"></p>
+<h4 style="text-align: center;">Taufiqurrahman Sidqi, S.Si., M.Si.</h4>
+<p style="text-align: center;"></p>
+<p style="text-align: center;"><img src="https://analis.vokasi.unair.ac.id/wp-content/uploads/2023/09/Pas-Foto.jpg" width="278" height="378"></p>
+<p style="text-align: center;">Gelar magister diperoleh di Program Studi Magister Biokimia, Fakultas Matematika dan Ilmu Pengetahuan Alam, Institut Pertanian Bogor. Topik penelitian dan pengabdian kepada masyarakat berfokus pada toksikologi klinik, kimia klinik, dan biokimia.</p>
+<p style="text-align: center;"></p>
+<p style="text-align: center;">Mata kuliah yang diampu: Toksikologi klinik, Kimia Klinik, Biokimia, Instrumentasi Laboratorium Medik, Urinalisis dan Cairan Tubuh, Teknologi Komputer dan Sistem Informasi Laboratorium</p>
+<p style="text-align: center;"></p>
+<hr>
+<p style="text-align: center;"><img src="https://analis.vokasi.unair.ac.id/wp-content/uploads/2024/03/Nyoman.png"></p>
+<p style="text-align: center;">Memperoleh gelar master dengan peminatan di bidang biokimia dari Fakultas Sains dan Teknologi Unair. Saat ini sedang menempuh program studi doktor dengan peminatan di bidang Enzim Molekuler di Fakultas Sains dan Teknologi, University of Groningen, The Netherlands (Belanda). Topik penelitian difokuskan pada biologi molekuler terutama aplikasi enzim di bidang biokimia dan kimia klinik.</p>
+<p style="text-align: center;"></p>
+<p style="text-align: center;">Mata kuliah yang diampu: Biokimia, toksikologi, dan kimia klinik</p>

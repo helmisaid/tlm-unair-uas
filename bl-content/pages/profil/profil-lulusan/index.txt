@@ -1,0 +1,18 @@
+<p></p>
+<div class="container">
+<h1>Profil Lulusan D4 Teknologi Laboratorium Medis</h1>
+<p>Lulusan Program Studi D4 Teknologi Laboratorium Medis memiliki peran sebagai:</p>
+<ul>
+<li>Teknisi Laboratorium Medis</li>
+<li>Asisten Peneliti</li>
+<li>Teknisi Plebotomi</li>
+</ul>
+<h2>Pranata Laboratorium Kesehatan Terampil</h2>
+<p>Pemeriksa menggunakan metode dan alat canggih pada pemeriksaan khusus dan kompleks. Dalam melaksanakan tugasnya, diharapkan menjadi sarjana terapan yang kompeten berdasarkan pengetahuan teoritis dan keterampilan teknis tinggi serta inovatif dalam mengikuti perkembangan teknologi laboratorium dengan ide-ide baru untuk peningkatan kinerja perorangan maupun kelompok. Lulusan yang diperoleh juga diharapkan dapat melakukan tugasnya dengan mandiri serta memiliki integritas yang tinggi dengan selalu mengutamakan kesehatan pasien, menjunjung tinggi hak-hak dan kerahasiaan pasien.</p>
+<h2>Peneliti</h2>
+<p>Sebagai seorang sarjana terapan dapat melakukan penelitian yang meliputi perumusan masalah, prosedur-prosedur pengambilan sampel, pemrosesan dan analisa sampel untuk menjawab permasalahan yang diajukan dalam penelitian serta menyimpulkan hasil dari penelitian yang telah dilakukan. Sebagai peneliti yang kompeten, inovatif, mandiri serta memiliki integritas tinggi.</p>
+<h2>Penyelia</h2>
+<p>Mampu membuat perencanaan, melaksanakan, dan menyelesaikan masalah kegiatan operasional dan manajerial laboratorium dengan menerapkan prinsip-prinsip manajemen sesuai sistem manajemen mutu.</p>
+<h2>Teknisi Pengelolaan Spesimen</h2>
+<p>Mampu menyusun perencanaan, melakukan persiapan, dan melaksanakan pengambilan spesimen biologis dari pasien (tahap pra-analitik) dengan hasil yang representatif sesuai standar operasional dan prosedur bidang pelayanan laboratorium medik.</p>
+</div>

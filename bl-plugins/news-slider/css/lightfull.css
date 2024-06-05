@@ -1,0 +1,145 @@
+
+#slidercontainer{
+  position: relative;
+}
+
+
+ .swipe {
+        overflow: hidden;
+        visibility: hidden;
+        position: relative;
+    }
+
+
+
+    .swipe-wrap {
+        overflow: hidden;
+        position: relative;
+    }
+
+    .swipe-wrap>div {
+        float: left;
+        width: 100%;
+        position: relative;
+        z-index: 1;
+    }
+
+    .swipe-wrap {
+        color: #000;
+    }
+
+    .swipe-content {
+
+        width: 100%;
+        min-height: 50%;
+         position: absolute;
+        bottom:0;
+        right:0;
+        background: rgba(255,255,255,0.7);
+        display:flex;
+        align-items: center;
+        justify-content: center;
+        padding:15px 10%;
+        box-sizing: border-box;
+        opacity:0;
+    }
+
+
+@media(max-width:768px){
+
+    .swipe-content{
+      width:100%;
+    }
+}
+
+    .swipe-content-bg {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        object-position: center center;
+        position: absolute;
+        top: 0;
+        left: 0;
+    }
+
+    .swipe-item {
+        position: relative;
+        width: 100%;
+      
+    }
+
+
+    .swipeleft{
+      position:absolute;
+      top:45%;
+      left:0;
+      background: #fff;
+      z-index: 2;
+      width:50px;
+      height:50px;
+      border:none;
+    }
+
+    .swiperight{
+position:absolute;
+  width:50px;
+      height:50px;
+      top:45%;
+      right:0;
+      z-index:2;
+      background:#fff;
+      border:none;
+    }
+
+    .swiperight,.swipeleft{
+      display:flex;
+      align-items: center;
+      justify-content: center;
+    opacity:0;
+          transition: all 250ms linear;
+
+    }
+
+#slidercontainer:hover .swiperight, #slidercontainer:hover .swipeleft{
+  opacity:1;
+}
+
+
+    .swipeleft img,.swiperight img{
+      width:40px;
+    
+    }
+
+
+@media(max-width:768px){
+
+.swiperight,.swipeleft{
+  display: none;
+}
+
+}
+
+
+
+.swipe-btn{
+  padding:8px 15px;
+ display:inline-flex;
+   border;solid 1px #fff;
+  border-radius: 5px;
+  transition: all 250ms linear;
+}
+
+.swipe-btn:hover{
+  filter: brightness(80%);
+}
+
+
+    .fadeInMe{
+       animation:fadeIn 300ms 400ms linear;
+        animation-fill-mode: forwards;
+    }
+
+    @keyframes fadeIn{
+from{opacity:0}
+to{opacity:1}
+    }

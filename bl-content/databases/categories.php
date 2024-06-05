@@ -1,0 +1,2 @@
+<?php defined('BLUDIT') or die('Bludit CMS.'); ?>
+{"berita":{"name":"berita","template":"","description":"","list":["kultam-tenknik-kloning-pada-bakteri","halo-dunia","selamat"]},"general":{"name":"General","description":"","template":"","list":["profil"]},"music":{"name":"Music","description":"","template":"","list":[]},"videos":{"name":"Videos","description":"","template":"","list":[]}}

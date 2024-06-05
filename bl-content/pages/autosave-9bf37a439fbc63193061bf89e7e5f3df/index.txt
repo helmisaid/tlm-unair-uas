@@ -1,0 +1,146 @@
+<div id="content" class="site-content " style="box-sizing: border-box; padding-top: 30px; color: #555555; font-family: Merriweather, serif; font-size: 14px; background-color: #f4f6f9;">
+<div class="container" style="box-sizing: border-box; width: 1340px; padding-right: 30px; padding-left: 30px; margin-right: auto; margin-left: auto; max-width: 1340px;">
+<div class="row justify-content-center site-content-row" style="box-sizing: border-box; display: flex; flex-wrap: wrap; margin-right: -15px; margin-left: -15px; justify-content: center !important; position: relative;">
+<div id="primary" class="col-lg-8 content-area sticky-column-bottom" style="box-sizing: border-box; position: sticky; width: 873.325px; padding-right: 15px; padding-left: 15px; flex: 0 0 66.6667%; max-width: 66.6667%; bottom: 0px; align-self: flex-end;">
+<div class="column-inner" style="box-sizing: border-box; padding-bottom: 1px;"><main id="main" class="site-main" style="box-sizing: border-box;">
+<div id="post-278" class="post-278 page type-page status-publish hentry" style="box-sizing: border-box; margin-bottom: 30px;">
+<div class="entry-content" style="box-sizing: border-box; counter-reset: footnotes 0;">
+<p style="box-sizing: border-box; margin-top: 0px; margin-bottom: 20px; font-size: 16px; text-align: center;"><span style="box-sizing: border-box; font-weight: bolder;">PRESTASI MAHASISWA D4 TEKNOLOGI LABORATORIUM MEDIK FAKULTAS VOKASI</span></p>
+<p style="box-sizing: border-box; margin-top: 0px; margin-bottom: 20px; font-size: 16px; text-align: center;"><span style="box-sizing: border-box; font-weight: bolder;">TAHUN 2024</span></p>
+<table>
+<tbody style="box-sizing: border-box;">
+<tr style="box-sizing: border-box;">
+<td width="61" style="box-sizing: border-box;">No</td>
+<td width="204" style="box-sizing: border-box;">Nama</td>
+<td width="114" style="box-sizing: border-box;">Angkatan</td>
+<td width="259" style="box-sizing: border-box;">Juara</td>
+</tr>
+<tr style="box-sizing: border-box;">
+<td width="61" style="box-sizing: border-box;">1</td>
+<td width="204" style="box-sizing: border-box;">Fauzan Rizky Kurniawan</td>
+<td width="114" style="box-sizing: border-box;">2023</td>
+<td width="259" style="box-sizing: border-box;">Juara 1 dalam 5th National Open Karate Championship Piala Panglima Divit 2 Kostrad 2024</td>
+</tr>
+<tr style="box-sizing: border-box;">
+<td width="61" style="box-sizing: border-box;">2</td>
+<td width="204" style="box-sizing: border-box;">Muhammad Biagi Zaen</td>
+<td width="114" style="box-sizing: border-box;">2022</td>
+<td width="259" style="box-sizing: border-box;">Juara 2 dalam 5th National Open Karate Championship Piala Panglima Divit 2 Kostrad 2024</td>
+</tr>
+<tr style="box-sizing: border-box;">
+<td width="61" style="box-sizing: border-box;">3</td>
+<td width="204" style="box-sizing: border-box;">Ibrahim Ahmad Yasin</td>
+<td width="114" style="box-sizing: border-box;">2022</td>
+<td width="259" style="box-sizing: border-box;">Juara 1 International Trophy Father of World Pencak Silat Febuary March 2024</td>
+</tr>
+<tr style="box-sizing: border-box;">
+<td width="61" style="box-sizing: border-box;">4</td>
+<td width="204" style="box-sizing: border-box;">Mahdalena Nur Sabilla</td>
+<td width="114" style="box-sizing: border-box;">2022</td>
+<td width="259" style="box-sizing: border-box;">Juara 2 (Silver Medal) dan Juara 3 (Bronze Medal) Lomba Essay National Education Competition (NEC) by EDUHUB &amp; UIN Syarif Hidayatullah Jakarta</td>
+</tr>
+</tbody>
+</table>
+<p style="box-sizing: border-box; margin-top: 0px; margin-bottom: 20px; font-size: 16px;"> </p>
+<p style="box-sizing: border-box; margin-top: 0px; margin-bottom: 20px; font-size: 16px;"><span style="box-sizing: border-box; font-weight: bolder;"> </span></p>
+<p style="box-sizing: border-box; margin-top: 0px; margin-bottom: 20px; font-size: 16px; text-align: center;"><span style="box-sizing: border-box; font-weight: bolder;">PRESTASI MAHASISWA D4 TEKNOLOGI LABORATORIUM MEDIK FAKULTAS VOKASI</span></p>
+<p style="box-sizing: border-box; margin-top: 0px; margin-bottom: 20px; font-size: 16px; text-align: center;"><span style="box-sizing: border-box; font-weight: bolder;">TAHUN 2023</span></p>
+<table>
+<tbody style="box-sizing: border-box;">
+<tr style="box-sizing: border-box;">
+<td width="61" style="box-sizing: border-box;">No</td>
+<td width="204" style="box-sizing: border-box;">Nama</td>
+<td width="114" style="box-sizing: border-box;">Angkatan</td>
+<td width="259" style="box-sizing: border-box;">Juara</td>
+</tr>
+<tr style="box-sizing: border-box;">
+<td width="61" style="box-sizing: border-box;">1</td>
+<td width="204" style="box-sizing: border-box;">Muhammad Dafa Bintng S</td>
+<td width="114" style="box-sizing: border-box;">2022</td>
+<td width="259" style="box-sizing: border-box;"> Juara Ketiga Kelas D Putra Tingkat Dewasa Kejuaraan Pencak Silat Malang Championship 2023</td>
+</tr>
+<tr style="box-sizing: border-box;">
+<td width="61" style="box-sizing: border-box;">2</td>
+<td width="204" style="box-sizing: border-box;">Mahdalena Nur Sabilla</td>
+<td width="114" style="box-sizing: border-box;"> 2022</td>
+<td width="259" style="box-sizing: border-box;"> Bronze Medal Lomba Essay National Education Competition (NEC) Universitas Pendidikan Indonesia</td>
+</tr>
+<tr style="box-sizing: border-box;">
+<td width="61" style="box-sizing: border-box;">3</td>
+<td width="204" style="box-sizing: border-box;">Salsabila Windasari</td>
+<td width="114" style="box-sizing: border-box;">  2022</td>
+<td width="259" style="box-sizing: border-box;">Bronze Medal Lomba Essay National Education Competition (NEC) Universitas Pendidikan Indonesia</td>
+</tr>
+<tr style="box-sizing: border-box;">
+<td width="61" style="box-sizing: border-box;"></td>
+<td width="204" style="box-sizing: border-box;"></td>
+<td width="114" style="box-sizing: border-box;"></td>
+<td width="259" style="box-sizing: border-box;"></td>
+</tr>
+</tbody>
+</table>
+<p style="box-sizing: border-box; margin-top: 0px; margin-bottom: 20px; font-size: 16px; text-align: center;"></p>
+</div>
+</div>
+</main></div>
+</div>
+</div>
+</div>
+</div>
+<footer id="colophon" class="site-footer" role="contentinfo" style="box-sizing: border-box; position: relative; z-index: 10; color: #555555; font-family: Merriweather, serif; font-size: 14px; background-color: #f4f6f9;">
+<div class="featured-stories" style="box-sizing: border-box; margin-bottom: 10px;">
+<div class="container" style="box-sizing: border-box; width: 1340px; padding-right: 30px; padding-left: 30px; margin-right: auto; margin-left: auto; max-width: 1340px;">
+<h3 class="stories-title" style="box-sizing: border-box; margin-top: 0px; margin-bottom: 15px; line-height: 1.3; font-size: 17px; font-family: 'Source Sans Pro', sans-serif; color: #333333; padding-left: 15px; padding-right: 15px; position: relative; overflow: hidden; width: 1280px;"><span style="box-sizing: border-box; color: #ff0a74; position: relative; padding-right: 10px; display: inline-block;"><a href="https://analis.vokasi.unair.ac.id/category/berita/" style="box-sizing: border-box; color: #ff0a74; background-color: transparent;">Berita</a></span></h3>
+<div class="row" style="box-sizing: border-box; display: flex; flex-wrap: wrap; margin-right: -15px; margin-left: -15px;">
+<div class="col-sm-6 col-lg-3 post-col" style="box-sizing: border-box; position: relative; width: 327.5px; padding-right: 15px; padding-left: 15px; flex: 0 0 25%; max-width: 25%; margin-bottom: 30px;">
+<div class="post-boxed" style="box-sizing: border-box; min-height: 100%; position: relative;">
+<div class="post-img-wrap" style="box-sizing: border-box; position: relative; overflow: hidden; background-color: #555555; margin-bottom: 14px;"><a href="https://analis.vokasi.unair.ac.id/selamat-atas-prestasinya/" class="a-post-img" style="box-sizing: border-box; color: #00236e; background-color: transparent; position: absolute; inset: 0px;"><img class="post-img" src="https://analis.vokasi.unair.ac.id/wp-content/uploads/2024/05/Mahdalena-Juara-2-3-Lomba-Essay-2024_resize-768x1024.jpg" alt="" style="box-sizing: border-box; vertical-align: top; border-style: none; height: 178.5px; position: absolute; inset: 0px; width: 297.5px; object-fit: cover; transition: all 0.5s ease-in-out 0s; transform: scale(1.006);"></a></div>
+<div class="post-content" style="box-sizing: border-box; position: relative;">
+<h3 class="entry-title" style="box-sizing: border-box; margin: 0px 0px 5px; line-height: 1.3; font-size: calc(15px); color: #333333; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis;"><a href="https://analis.vokasi.unair.ac.id/selamat-atas-prestasinya/" style="box-sizing: border-box; color: #333333; background-color: transparent;">Selamat Atas Prestasinya !</a></h3>
+<div class="entry-meta" style="box-sizing: border-box; font-family: 'Source Sans Pro', sans-serif; display: flex; flex-wrap: wrap; margin-bottom: 5px;">
+<div class="date" style="box-sizing: border-box; position: relative; margin-bottom: 0px;"><a href="https://analis.vokasi.unair.ac.id/selamat-atas-prestasinya/" title="Selamat Atas Prestasinya !" style="box-sizing: border-box; color: #555555; background-color: transparent; opacity: 0.8;">28 Mei 2024</a> </div>
+<div class="by-author vcard author" style="box-sizing: border-box; position: relative; margin-bottom: 0px;"><a href="https://analis.vokasi.unair.ac.id/author/author/" style="box-sizing: border-box; color: #555555; background-color: transparent; opacity: 0.8;">author analis</a></div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-sm-6 col-lg-3 post-col" style="box-sizing: border-box; position: relative; width: 327.5px; padding-right: 15px; padding-left: 15px; flex: 0 0 25%; max-width: 25%; margin-bottom: 30px;">
+<div class="post-boxed" style="box-sizing: border-box; min-height: 100%; position: relative;">
+<div class="post-img-wrap" style="box-sizing: border-box; position: relative; overflow: hidden; background-color: #555555; margin-bottom: 14px;"><a href="https://analis.vokasi.unair.ac.id/selamat-datang-mahasiswa-baru-prodi-d4-teknologi-laboratorium-medik-jalur-snbp/" class="a-post-img" style="box-sizing: border-box; color: #00236e; background-color: transparent; position: absolute; inset: 0px;"><img class="post-img" src="https://analis.vokasi.unair.ac.id/wp-content/uploads/2024/03/IMG-20240328-WA0015-1-1024x1024.jpg" alt="" style="box-sizing: border-box; vertical-align: top; border-style: none; height: 178.5px; position: absolute; inset: 0px; width: 297.5px; object-fit: cover; transition: all 0.5s ease-in-out 0s; transform: scale(1.006);"></a></div>
+<div class="post-content" style="box-sizing: border-box; position: relative;">
+<h3 class="entry-title" style="box-sizing: border-box; margin: 0px 0px 5px; line-height: 1.3; font-size: calc(15px); color: #333333; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis;"><a href="https://analis.vokasi.unair.ac.id/selamat-datang-mahasiswa-baru-prodi-d4-teknologi-laboratorium-medik-jalur-snbp/" style="box-sizing: border-box; color: #333333; background-color: transparent;">Selamat Datang Mahasiswa Baru Prodi D4 Teknologi Laboratorium Medik Jalur SNBP</a></h3>
+<div class="entry-meta" style="box-sizing: border-box; font-family: 'Source Sans Pro', sans-serif; display: flex; flex-wrap: wrap; margin-bottom: 5px;">
+<div class="date" style="box-sizing: border-box; position: relative; margin-bottom: 0px;"><a href="https://analis.vokasi.unair.ac.id/selamat-datang-mahasiswa-baru-prodi-d4-teknologi-laboratorium-medik-jalur-snbp/" title="Selamat Datang Mahasiswa Baru Prodi D4 Teknologi Laboratorium Medik Jalur SNBP" style="box-sizing: border-box; color: #555555; background-color: transparent; opacity: 0.8;">31 Maret 2024</a> </div>
+<div class="by-author vcard author" style="box-sizing: border-box; position: relative; margin-bottom: 0px;"><a href="https://analis.vokasi.unair.ac.id/author/author/" style="box-sizing: border-box; color: #555555; background-color: transparent; opacity: 0.8;">author analis</a></div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-sm-6 col-lg-3 post-col" style="box-sizing: border-box; position: relative; width: 327.5px; padding-right: 15px; padding-left: 15px; flex: 0 0 25%; max-width: 25%; margin-bottom: 30px;">
+<div class="post-boxed" style="box-sizing: border-box; min-height: 100%; position: relative;">
+<div class="post-img-wrap" style="box-sizing: border-box; position: relative; overflow: hidden; background-color: #555555; margin-bottom: 14px;"><a href="https://analis.vokasi.unair.ac.id/buka-puasa-bersama-tlm-mengatur-waktu-dan-prioritas-ya-kuliah-ya-ibadah/" class="a-post-img" style="box-sizing: border-box; color: #00236e; background-color: transparent; position: absolute; inset: 0px;"><img class="post-img" src="https://analis.vokasi.unair.ac.id/wp-content/uploads/2024/03/IMG_20240320_164632-min-1024x578.jpg" alt="" style="box-sizing: border-box; vertical-align: top; border-style: none; height: 178.5px; position: absolute; inset: 0px; width: 297.5px; object-fit: cover; transition: all 0.5s ease-in-out 0s; transform: scale(1.006);"></a></div>
+<div class="post-content" style="box-sizing: border-box; position: relative;">
+<h3 class="entry-title" style="box-sizing: border-box; margin: 0px 0px 5px; line-height: 1.3; font-size: calc(15px); color: #333333; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis;"><a href="https://analis.vokasi.unair.ac.id/buka-puasa-bersama-tlm-mengatur-waktu-dan-prioritas-ya-kuliah-ya-ibadah/" style="box-sizing: border-box; color: #333333; background-color: transparent;">Buka puasa bersama TLM: Mengatur waktu dan prioritas– Ya Kuliah, Ya Ibadah</a></h3>
+<div class="entry-meta" style="box-sizing: border-box; font-family: 'Source Sans Pro', sans-serif; display: flex; flex-wrap: wrap; margin-bottom: 5px;">
+<div class="date" style="box-sizing: border-box; position: relative; margin-bottom: 0px;"><a href="https://analis.vokasi.unair.ac.id/buka-puasa-bersama-tlm-mengatur-waktu-dan-prioritas-ya-kuliah-ya-ibadah/" title="Buka puasa bersama TLM: Mengatur waktu dan prioritas– Ya Kuliah, Ya Ibadah" style="box-sizing: border-box; color: #555555; background-color: transparent; opacity: 0.8;">31 Maret 2024</a> </div>
+<div class="by-author vcard author" style="box-sizing: border-box; position: relative; margin-bottom: 0px;"><a href="https://analis.vokasi.unair.ac.id/author/author/" style="box-sizing: border-box; color: #555555; background-color: transparent; opacity: 0.8;">author analis</a></div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-sm-6 col-lg-3 post-col" style="box-sizing: border-box; position: relative; width: 327.5px; padding-right: 15px; padding-left: 15px; flex: 0 0 25%; max-width: 25%; margin-bottom: 30px;">
+<div class="post-boxed" style="box-sizing: border-box; min-height: 100%; position: relative;">
+<div class="post-img-wrap" style="box-sizing: border-box; position: relative; overflow: hidden; background-color: #555555; margin-bottom: 14px;"><a href="https://analis.vokasi.unair.ac.id/selamat-dan-sukses-champions-2/" class="a-post-img" style="box-sizing: border-box; color: #00236e; background-color: transparent; position: absolute; inset: 0px;"><img class="post-img" src="https://analis.vokasi.unair.ac.id/wp-content/uploads/2024/03/ucapan-yasin-1024x1024.png" alt="" style="box-sizing: border-box; vertical-align: top; border-style: none; height: 178.5px; position: absolute; inset: 0px; width: 297.5px; object-fit: cover; transition: all 0.5s ease-in-out 0s; transform: scale(1.006);"></a></div>
+<div class="post-content" style="box-sizing: border-box; position: relative;">
+<h3 class="entry-title" style="box-sizing: border-box; margin: 0px 0px 5px; line-height: 1.3; font-size: calc(15px); color: #333333; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis;"><a href="https://analis.vokasi.unair.ac.id/selamat-dan-sukses-champions-2/" style="box-sizing: border-box; color: #333333; background-color: transparent;">Selamat dan Sukses Champions !</a></h3>
+<div class="entry-meta" style="box-sizing: border-box; font-family: 'Source Sans Pro', sans-serif; display: flex; flex-wrap: wrap; margin-bottom: 5px;">
+<div class="date" style="box-sizing: border-box; position: relative; margin-bottom: 0px;"><a href="https://analis.vokasi.unair.ac.id/selamat-dan-sukses-champions-2/" title="Selamat dan Sukses Champions !" style="box-sizing: border-box; color: #555555; background-color: transparent; opacity: 0.8;">28 Maret 2024</a> </div>
+<div class="by-author vcard author" style="box-sizing: border-box; position: relative; margin-bottom: 0px;"><a href="https://analis.vokasi.unair.ac.id/author/author/" style="box-sizing: border-box; color: #555555; background-color: transparent; opacity: 0.8;">author analis</a></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</footer>

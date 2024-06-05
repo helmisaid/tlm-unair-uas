@@ -1,0 +1,9 @@
+<h2>LABORATORIUM</h2>
+<p>Prodi D4 Teknologi Laboratorium Medis (TLM) memiliki fasilitas laboratorium sebagai penunjang pembelajaran. Beberapa laboratorium yang dimiliki oleh prodi D4 TLM antara lain:</p>
+<p></p>
+<p>1. Laboratorium Patologi Klinik</p>
+<p>2. Laboratorium Mikrobiologi</p>
+<p>3. Laboratorium Parasitologi</p>
+<p>4. Laboratorium Imunologi</p>
+<p>5. Laboratorium Biologi Molekuler</p>
+<p>6. Laboratorium Biokimia</p>

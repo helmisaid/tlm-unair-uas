@@ -1,0 +1,95 @@
+<div class="elementor-element elementor-element-69e0b779 elementor-widget elementor-widget-text-editor" data-id="69e0b779" data-element_type="widget" data-widget_type="text-editor.default" style="box-sizing: border-box; --flex-direction: initial; --flex-wrap: initial; --justify-content: initial; --align-items: initial; --align-content: initial; --gap: initial; --flex-basis: initial; --flex-grow: initial; --flex-shrink: initial; --order: initial; --align-self: initial; flex-basis: var(--flex-basis); flex-grow: var(--flex-grow); flex-shrink: var(--flex-shrink); order: var(--order); align-self: var(--align-self); flex-direction: var(--flex-direction); flex-wrap: var(--flex-wrap); justify-content: var(--justify-content); align-items: var(--align-items); align-content: var(--align-content); gap: var(--gap); position: relative; --swiper-theme-color: #000; --swiper-navigation-size: 44px; --swiper-pagination-bullet-size: 6px; --swiper-pagination-bullet-horizontal-gap: 6px; --widgets-spacing: 20px 20px; width: 1170px; margin-block-end: 20px; font-family: Montserrat, sans-serif; font-size: 20px; font-weight: 600; line-height: 30px; margin-bottom: 15px;">
+<div class="elementor-widget-container" style="box-sizing: border-box; transition: background .3s,border .3s,border-radius .3s,box-shadow .3s,transform var(--e-transform-transition-duration,.4s);">
+<h2 style="box-sizing: border-box; margin-top: 0px; margin-bottom: 0.5rem; line-height: 1.2; font-size: 2rem; font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; color: #212529; background-color: #ffffff; text-align: left;"><span style="box-sizing: border-box; color: #fb0083;">                     D4 Teknologi Laboratorium Medik</span></h2>
+<p><span style="box-sizing: border-box; color: #fb0083;"></span></p>
+<span style="color: #fb0083;"></span></div>
+</div>
+<h3><span style="font-family: Montserrat, sans-serif; text-align: justify;"><img src="https://unairtlm.000webhostapp.com/bl-content/uploads/pages/f30ae13866312845c83cf4cd0bd7bb22/gu867s2g.png" alt=""></span></h3>
+<h2><strong>TENTANG TEKNOLOGI LABORATORIUM MEDIK</strong></h2>
+<h2><strong>LAMA (WAKTU) PROGRAM PENDIDIKAN</strong></h2>
+<p>Program Studi D4 Teknologi Laboratorium Medik  ditempuh dalam  8 (delapan) semester, dengan beban studi 146 sks .</p>
+<p></p>
+<p></p>
+<h2><strong>TUJUAN PENDIDIKAN </strong></h2>
+<p>Tujuan Pendidikan Program Studi D4 Teknologi Laboratorium Medika adalah menghasilkan Ahli Teknologi Laboratorium Medik yang:</p>
+<p>Menghasilkan lulusan Sarjana Terapan Teknologi Laboratorium Medis unggul yang</p>
+<p>memiliki kompetensi tinggi, profesional, mandiri dan berkepribadian serta berdaya</p>
+<p>saing tinggi di kawasan regional, nasional dan internasional.</p>
+<p>Menghasilkan penelitian dalam bidang teknologi laboratorium medis dan</p>
+<p>mewujudkan berbagai inovasi untuk mengembangan pendidikan laboratorium</p>
+<p>medis.</p>
+<p>Menghasilkan pengabdian berbasis ilmu teknologi laboratorium medis yang</p>
+<p>bermanfaat dalam memajukan kesejahteraan umum dan kehidupan bangsa serta</p>
+<p>pemberdayaan masyarakat secara inovatif agar masyarakat mampu menyelesaikan</p>
+<p>masalah seccara mandiri dan berkelanjutan.</p>
+<h2></h2>
+<p></p>
+<h2><strong>CAPAIAN PEMBELAJARAN LULUSAN </strong></h2>
+<p>Sikap</p>
+<p>Bertakwa kepada Tuhan Yang Maha Esa dan mampu menunjukkan sikap religius;</p>
+<p>Menjunjung tinggi nilai kemanusiaan dalam menjalankan tugas berdasarkan agama, moral, dan</p>
+<p>etika;</p>
+<p>Berkontribusi dalam peningkatan mutu kehidupan bermasyarakat, berbangsa, bernegara, dan</p>
+<p>kemajuan peradaban berdasarkan Pancasila;</p>
+<p>Berperan sebagai warga negara yang bangga dan cinta tanah air, memiliki nasionalisme serta rasa</p>
+<p>tanggungjawab pada negara dan bangsa;</p>
+<p>Menghargai keanekaragaman budaya, pandangan, agama, dan kepercayaan, serta pendapat atau temuan orisinal orang lain;</p>
+<p>Bekerja sama dan memiliki kepekaan sosial serta kepedulian terhadap masyarakat dan lingkungan;</p>
+<p>Taat hukum dan disiplin dalam kehidupan bermasyarakat dan bernegara;</p>
+<p>Menginternalisasi nilai, norma, dan etika akademik;</p>
+<p>Menunjukkan sikap bertanggungjawab atas pekerjaan di bidang keahliannya secara mandiri;</p>
+<p>Menginternalisasi semangat kemandirian, kejuangan, dan kewirausahaan;</p>
+<p>Mampu menghargai dan menghormati pasien dan keluarga dalam menjalankan profesinya dengan menerapkan sesuai kode etik profesi Persatuan Ahli Teknologi Laboratorium Medik Indonesia (PATELKI);</p>
+<p>Menjaga kerahasiaan hasil pemeriksaan pasien</p>
+<p>Menjaga keamanan dan kenyamanan pasien pada tahap pra analitik</p>
+<h2></h2>
+<p></p>
+<h2><strong>KETERAMPILAN UMUM</strong></h2>
+<p>Mampu menerapkan pemikiran logis, kritis, inovatif, bermutu dan terukur dalam melakukan</p>
+<p>pekerjaan yagn spesifik di bidang keahliannya serta sesuai dengan standar kompetensi kerja bidang yang bersangkutan;</p>
+<p>Mampu menunjukkan kinerja mandiri, bermutu dan terukur;</p>
+<p>Mampu mengkaji kasus penerapan ilmu pengetahuan dan teknologi yang memperhatikan dan</p>
+<p>menerapkan nilai humaniora sesuai dengan bidang keahliannya dalam rangka menghasilkan</p>
+<p>prototype, prosedur baku, desain atau karya seni, menyusun hasil kajiannya dalam bentuk kertas</p>
+<p>kerja spesifikasi desain atau esai senim, dan mengunggahnya dalam laman perguruan tinggi;</p>
+<p>Mampu menyusun hasil kajian tersebut di atas dalam bentuk kertas kerja, spesifikasi desain, atau esai seni, dan mengunggahnya dalam laman perguruan tinggi;</p>
+<p>Mampu mengambil keputusan secara tepat berdasarkan prosedur baku, spesifikasi desain,</p>
+<p>persyaratan keselamatan dan keamanan kerja dalam melakukan supervise dan evaluasi pada</p>
+<p>pekerjaannya;</p>
+<p>Mampu memelihara dan mengembangkan jaringan kerja sama dan hasil kerja sama di dalam maupun di luar lembaganya;</p>
+<p>Mampu bertanggung jawab atas pencapaian hasil kerja kelompok dan melakukan supervise dan</p>
+<p>evaluasi terhadap penyelesaian pekerjaan yang ditugaskan kepada pekerja yang berada di bawah</p>
+<p>tanggungjawabnya;</p>
+<p>Mampu melakukan proses evaluasi diri terhadap kelompok kerja yang berada di bawah</p>
+<p>tanggungjawabnya dan mampu mengelola pembelajaran secara mandiri; dan</p>
+<p>mampu mendokumentasikan, menyimpan, mengamankan dan menemukan kembali data untuk</p>
+<p>menjamin kesahihan dan mencegah plagiasi</p>
+<p></p>
+<p></p>
+<h2><strong>PENGETAHUAN</strong></h2>
+<p>Konsep teoritis anatomi fisiologi, patofisiologi secara mendalam</p>
+<p>Menguasai metode flebotomi, metode pemeriksaan sampel cairan tubh dan jaringan, metode</p>
+<p>penelitian</p>
+<p>Menguasai prinsip etika profesi TLM dan Hukum Kesehatan, hematologi, kimia klinik, bakteriologi klinik, parasitologi klinik, toksikologi klinis, virologi klinik, mikologi klinis, sitohistoteknologi,imunologi, imunohematologi, biologi sel dan molekuler, biokimia, jaminan mutu laboratorium, K3 laboratorium medik:</p>
+<p>Menguasai Teknik dan Pengetahuan Konseptual meliputi sistem innformasi laboratorium, sistem</p>
+<p>manajemen mutu, komunikasi, kewirausahaan, bahan pemeriksaan dan reagensia, instrument</p>
+<p>laboratorium medik.</p>
+<p></p>
+<p></p>
+<h2><strong>KETERAMPILAN KHUSUS</strong></h2>
+<p>Mampu menyusun perencanaan, melakukan persiapan, dan melaksanakan pengambilan spesimen</p>
+<p>biologis dari pasien (tahap pra analitik) dengan hasil yang representatif sesuai standar operational</p>
+<p>dan prosedur bidang pelayanan laboratorium medik. (Teknisi Pengelolaan Spesimen)</p>
+<p>Mampu melakukan pemeriksaan sampel biologis (tahap analitik) dengan memilih metode pemeriksaan yang sesuai jenis spesimen, serta menganalisis hasil pemeriksaan (tahap pasca analitik) untuk mendapatkan informasi yang valid sesuai standar mutu yang berlaku (Teknisi Ahli Laboratorium Medis).</p>
+<p>Mampu membuat dan menyajikan laporan hasil analisis pemeriksaan laboratoris yang tervalidasi untuk keperluan diagnosis klinis dokter dan pihak yang berwenang. (Validator)</p>
+<p>Mampu membuat perencanaan, melaksanakan, dan menyelesaikan masalah kegiatan operasional dan manajerial laboratorium dengan menerapkan prinsip –prinsip manajemen sesuai sistem manajemen mutu; (Penyelia)</p>
+<p>Mampu melakukan kajian masalah yang kompleks dalam ruang lingkup Teknologi Laboratorium</p>
+<p>Medis dengan metode baku yang sesuai bidang kajian dan disusun dalam bentuk skripsi/tugas</p>
+<p>akhir/karya ilmiah (Peneliti terapan)</p>
+<p>Mampu berkomunikasi terapeutik dengan pasien secara efektif dan etis.</p>
+<p></p>
+<p></p>
+<h3><strong>GELAR VOKASI</strong></h3>
+<h3><strong>Program Studi<span style="white-space: pre;"> </span>Jenjang<span style="white-space: pre;"> </span>Gelar Vokasi</strong></h3>
+<h3><strong>Teknologi Laboratorium Medik<span style="white-space: pre;"> </span>D4<span style="white-space: pre;"> </span>Str. Kes</strong></h3>
+<h1 style="box-sizing: border-box; margin: 0px; color: #333333; font-family: Montserrat, sans-serif; font-size: 14px;"></h1>

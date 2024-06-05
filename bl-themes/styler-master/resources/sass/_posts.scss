@@ -1,0 +1,46 @@
+.post{
+        .post-title{
+            color:$theme-color;
+        }
+        &:hover{
+            .post-title{
+                color:$theme-hover-color;
+            }
+        }
+
+    .post-subtitle{
+        margin-left:-4px;
+        font-size: .9rem;
+        svg{
+            transform:scale(0.7)
+        }
+    }
+    
+}  
+
+
+/*  responsive  */
+
+@media (min-width: 576px) {
+    .card-columns {
+        column-count: 1;
+    }
+}
+
+@media (min-width: 768px) {
+    .card-columns {
+        column-count: 2;
+    }
+}
+
+@media (min-width: 1200px) {
+    .card-columns {
+        column-count: 3;
+    }
+}
+
+@media (min-width: 1300px) {
+    .card-columns {
+        column-count: 4;
+    }
+}

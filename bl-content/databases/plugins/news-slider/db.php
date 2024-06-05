@@ -1,0 +1,2 @@
+<?php defined('BLUDIT') or die('Bludit CMS.'); ?>
+{"howmuch":"3","category":"berita","howlong":30,"style":"lightfull","bgdark":"100%","btntext":"selengkapnya","btncolor":"#ff0088","btntextcolor":"#ffffff","height":"500px","heightmobile":"400px","speed":"3000","borderradius":"2px","position":1}

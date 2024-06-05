@@ -1,0 +1,34 @@
+<p style="box-sizing: border-box; margin: 0px 0px 15px; color: #333333; font-family: Montserrat, sans-serif; font-size: 14px;"><span style="box-sizing: border-box; font-weight: bold;"></span></p>
+<h2 style="text-align: center;"><span style="color: #fb0083;">Program Studi D4 Teknologi Laboratorium Medik</span></h2>
+<hr>
+<p style="text-align: center;"></p>
+<p style="text-align: center;">                                                                   </p>
+<div class="row mb-3" style="height: 600px;"><iframe class="col-lg-12 col-md-12 col-sm-12 " width="100%" height="100%" src="https://www.youtube.com/embed/0S6H7r9x4zo">
+ </iframe></div>
+<p></p>
+<div class="row " style="text-align: center; margin-bottom: 50px;"><span class="selectable-text copyable-text" style="white-space-collapse: preserve;">Program Sarjana Terapan Teknologi Laboratorium Medik merupakan prodi yang didirikan tahun 2022 dengan tujuan menghasilkan Ahli Tenaga Laboratorium Medik yang terampil, mandiri, kompeten sesuai dengan moto excellence with morality. </span><span class="selectable-text copyable-text" style="white-space-collapse: preserve;"><span class="selectable-text copyable-text">Ahli tenaga laboratorium medik ini membantu mendiagnosa penyakit pasien dengan melakukan analisa sample klinis di dalam laboratorium. Kompetensi teknologi laboratorium medik ini adalah bidang Patologi Klinik, Mikrobiologi Klinik, Parasitologi Klinik, Patologi Anatomi, Toksikologi, Spermatologi, Biologi Molekuler.</span></span></div>
+<div class="mx-auto" style="text-align: center;"><a href="https://unairtlm.000webhostapp.com/profil/sejarah-program-studi" class="rounded rounded-lg btn custom-btn mb-10"><span class="text-white">Sejarah</span></a></div>
+<div class="mx-auto mb-10" style="text-align: center;"><span class="text-white"></span></div>
+<div class="mx-auto" style="text-align: center;"></div>
+<div class="row mt-10 mb-3" style="height: 600px; margin-bottom: 50px; margin-top: 50px;"><iframe class="col-lg-12 col-md-12 col-sm-12 " src="https://www.youtube.com/embed/DbT2DQfOB1E" width="100%" height="100%">
+ </iframe></div>
+<div style="margin-top: 56px; max-width: 800px; margin: auto;">
+<div style="text-align: center; padding: 10px; margin-top: 50px;">
+<h2 style="margin-bottom: 0;"><span style="color: #fb0083;">-AKREDITASI-</span><span style="color: #fb0083;"></span></h2>
+<h3 style="margin-top: 0;">BAIK</h3>
+</div>
+<hr>
+<div style="padding: 10px;">
+<h2 style="margin-bottom: 10px; text-align: center;"><span style="color: #fb0083;">-FASILITAS-</span></h2>
+<p style="font-size: 0.9rem; margin-bottom: 10px; text-align: center;">Ruang kuliah dan laboratorium yang memadai</p>
+<p style="font-size: 0.9rem; margin-bottom: 10px; text-align: center;">Jaringan kolaborator dengan rumah sakit/laboratorium pemerintah dan swasta</p>
+<p style="font-size: 0.9rem; margin-bottom: 10px; text-align: center;">Unit kegiatan mahasiswa</p>
+<p style="font-size: 0.9rem; margin-bottom: 10px; text-align: center;">Ruang kuliah dan laboratorium yang memadaiPusat layanan kesehatan</p>
+</div>
+<div style="padding: 10px;"><hr>
+<h2 style="margin-bottom: 10px; text-align: center;"><span style="color: #fb0083;">-PROSPEK KERJA-</span></h2>
+<p style="font-size: 0.9rem; margin-bottom: 10px; text-align: center;">Ahli teknologi laboratorium medik</p>
+<p style="font-size: 0.9rem; margin-bottom: 10px; text-align: center;">Peneliti</p>
+<p style="font-size: 0.9rem; margin-bottom: 10px; text-align: center;">Penyelia</p>
+</div>
+</div>

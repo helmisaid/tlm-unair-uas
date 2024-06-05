@@ -1,0 +1,272 @@
+<div class="elementor-element elementor-element-54f31c91 elementor-widget elementor-widget-heading" data-id="54f31c91" data-element_type="widget" data-widget_type="heading.default" style="box-sizing: border-box; --flex-direction: initial; --flex-wrap: initial; --justify-content: initial; --align-items: initial; --align-content: initial; --gap: initial; --flex-basis: initial; --flex-grow: initial; --flex-shrink: initial; --order: initial; --align-self: initial; flex-basis: var(--flex-basis); flex-grow: var(--flex-grow); flex-shrink: var(--flex-shrink); order: var(--order); align-self: var(--align-self); flex-direction: var(--flex-direction); flex-wrap: var(--flex-wrap); justify-content: var(--justify-content); align-items: var(--align-items); align-content: var(--align-content); gap: var(--gap); position: relative; --swiper-theme-color: #000; --swiper-navigation-size: 44px; --swiper-pagination-bullet-size: 6px; --swiper-pagination-bullet-horizontal-gap: 6px; --widgets-spacing: 20px 20px; width: 1170px; margin-bottom: 20px; margin-block-end: 20px; text-align: center; color: #535353; font-family: Montserrat, 'Helvetica Neue', Arial, sans-serif; font-size: 14px;">
+<div class="elementor-widget-container" style="box-sizing: border-box; transition: background .3s,border .3s,border-radius .3s,box-shadow .3s,transform var(--e-transform-transition-duration,.4s);">
+<h2 class="elementor-heading-title elementor-size-default" style="box-sizing: border-box; font-family: Montserrat, sans-serif; color: #ff1a75; margin: 0px; line-height: 1.4074; font-size: 48px; padding: 0px; text-align: left;">                 BEM Vokasi Unair</h2>
+</div>
+</div>
+<p class="paragraph" align="center" style="box-sizing: border-box; margin: 0in 0in 0.0001pt; color: #535353; font-family: Montserrat, 'Helvetica Neue', Arial, sans-serif; font-size: 14px; vertical-align: baseline;"><span style="box-sizing: border-box; font-weight: bold;">PROFIL BEM FAKULTAS VOKASI</span></p>
+<p align="center" style="box-sizing: border-box; margin: 0px 0px 15px; color: #535353; font-family: Montserrat, 'Helvetica Neue', Arial, sans-serif; font-size: 14px;"></p>
+<p align="center" style="box-sizing: border-box; margin: 0px 0px 15px; color: #535353; font-family: Montserrat, 'Helvetica Neue', Arial, sans-serif; font-size: 14px;"></p>
+<p align="center" style="box-sizing: border-box; margin: 0px 0px 15px; color: #535353; font-family: Montserrat, 'Helvetica Neue', Arial, sans-serif; font-size: 14px;"><img src="https://unairtlm.000webhostapp.com/bl-content/uploads/pages/ddd481961c25f2178262f3db23b84d4a/BEM-VOKASI.jpg" alt=""></p>
+<p style="box-sizing: border-box; margin: 0px 0px 15px; color: #535353; font-family: Montserrat, 'Helvetica Neue', Arial, sans-serif; font-size: 14px;">Badan Eksekutif Mahasiswa (BEM) Fakultas Vokasi merupakan wadah mahasiswa Fakultas Vokasi UNAIR dalam menyalurkan minat dan pengalamannya di bidang keorganisasian. Berkedudukan di Fakultas Vokasi UNAIR, BEM FV berlandaskan pancasila dan menjunjung tinggi nilai tri dharma perguruan tinggi.  </p>
+<p style="box-sizing: border-box; margin: 0px 0px 15px; color: #535353; font-family: Montserrat, 'Helvetica Neue', Arial, sans-serif; font-size: 14px;">Pada tahun ini BEM FV yang di pimpin oleh ananda Ageng Rizki Arianes dan wakilnya Ana Amalia Oca Ahaola mengusung kabinet Evokasi Aksi yang terdiri dari 2 kata yaitu “Evokasi” yang berarti perintis perubahan dan “Aksi” yang berarti berani dalam melakukan kontribusi nyata yang berdampak positif bagi Fakultas Vokasi Universitas Airlangga. Bersamaan dengan lambang singa yang melambangkan keberanian dalam merintis perubahan juga melambangkan kekelurgaan dalam mengayomi seluruh elemen Fakultas Vokasi Universitas Airlangga. Bentuk hati melambangkan loyalitas dalam berkontribusi dan mengabdi kepada Fakultas Vokasi dan juga masyarakat. Dan sayap mengepak melambangkan semangat untuk menginisiasi pergerakan, kreasi, dan inovasi baru yang selaras dengan pengimplementasian Tri Dharma Perguruan Tinggi. </p>
+<p style="box-sizing: border-box; margin: 0px; color: #535353; font-family: Montserrat, 'Helvetica Neue', Arial, sans-serif; font-size: 14px;">Terdapat 12 kementerian yang membantu dan melaksanakan kinerja BEM Fakultas Vokasi yaitu, Kementerian Advokasi dan Kesejahteraan Mahasiswa, Sekretaris dan Bendahara, Keilmuan dan Inovasi Prestasi, Media Komunikasi dan Informasi Digital, Kerohanian, Kajian Isu dan Politik, Kementerian Olahraga, Seni, Budaya, dan Pengembangan Minat Bakat, Sosial Masyarakat, dan Lingkungan Hidup, Pengembangan Sumber Daya Manusia, Perhubungan, serta Kementerian Pemberdayaan Perempuan dan Kesetaraan Gender.</p>
+<p style="box-sizing: border-box; margin: 0px; color: #535353; font-family: Montserrat, 'Helvetica Neue', Arial, sans-serif; font-size: 14px;"></p>
+<p style="box-sizing: border-box; margin: 0px; color: #535353; font-family: Montserrat, 'Helvetica Neue', Arial, sans-serif; font-size: 14px;"></p>
+<p style="box-sizing: border-box; margin: 0px; color: #535353; font-family: Montserrat, 'Helvetica Neue', Arial, sans-serif; font-size: 14px;"></p>
+<p style="box-sizing: border-box; margin: 0px; color: #535353; font-family: Montserrat, 'Helvetica Neue', Arial, sans-serif; font-size: 14px;"></p>
+<h2 class="elementor-heading-title elementor-size-default" style="box-sizing: border-box; font-family: Montserrat, sans-serif; color: #ff1a75; margin: 0px; line-height: 1.4074; font-size: 48px; padding: 0px; text-align: center;">UKM dan ORMAWA Vokasi Unair</h2>
+<p style="text-align: center;"><span style="color: #535353; font-family: Montserrat, 'Helvetica Neue', Arial, sans-serif; font-size: 14px; text-align: center;">Berikut informasi mengenai Unit Kegiatan Mahasiswa (UKM) dan ORMAWA yang ada di Fakultas Vokasi Universitas Airlangga.</span></p>
+<div class="elementor-element elementor-element-e90cd2d elementor-widget elementor-widget-heading" data-id="e90cd2d" data-element_type="widget" data-widget_type="heading.default" style="box-sizing: border-box; --flex-direction: initial; --flex-wrap: initial; --justify-content: initial; --align-items: initial; --align-content: initial; --gap: initial; --flex-basis: initial; --flex-grow: initial; --flex-shrink: initial; --order: initial; --align-self: initial; flex-basis: var(--flex-basis); flex-grow: var(--flex-grow); flex-shrink: var(--flex-shrink); order: var(--order); align-self: var(--align-self); flex-direction: var(--flex-direction); flex-wrap: var(--flex-wrap); justify-content: var(--justify-content); align-items: var(--align-items); align-content: var(--align-content); gap: var(--gap); position: relative; --swiper-theme-color: #000; --swiper-navigation-size: 44px; --swiper-pagination-bullet-size: 6px; --swiper-pagination-bullet-horizontal-gap: 6px; --widgets-spacing: 20px 20px; width: 1170px; margin-bottom: 20px; margin-block-end: 20px; text-align: center; color: #535353; font-family: Montserrat, 'Helvetica Neue', Arial, sans-serif; font-size: 14px;">
+<div class="elementor-widget-container" style="box-sizing: border-box; transition: background .3s,border .3s,border-radius .3s,box-shadow .3s,transform var(--e-transform-transition-duration,.4s);"></div>
+</div>
+<div class="elementor-element elementor-element-6155d52e elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="6155d52e" data-element_type="widget" data-widget_type="divider.default" style="box-sizing: border-box; --flex-direction: initial; --flex-wrap: initial; --justify-content: initial; --align-items: initial; --align-content: initial; --gap: initial; --flex-basis: initial; --flex-grow: initial; --flex-shrink: initial; --order: initial; --align-self: initial; flex-basis: var(--flex-basis); flex-grow: var(--flex-grow); flex-shrink: var(--flex-shrink); order: var(--order); align-self: var(--align-self); flex-direction: var(--flex-direction); flex-wrap: var(--flex-wrap); justify-content: var(--justify-content); align-items: var(--align-items); align-content: var(--align-content); gap: var(--gap); position: relative; --swiper-theme-color: #000; --swiper-navigation-size: 44px; --swiper-pagination-bullet-size: 6px; --swiper-pagination-bullet-horizontal-gap: 6px; --widgets-spacing: 20px 20px; --divider-border-style: solid; --divider-border-width: 5px; --divider-color: #99fe02; --divider-icon-size: 20px; --divider-element-spacing: 10px; --divider-pattern-height: 24px; --divider-pattern-size: 20px; --divider-pattern-url: none; --divider-pattern-repeat: repeat-x; width: 1170px; margin-bottom: 20px; margin-block-end: 20px; color: #535353; font-family: Montserrat, 'Helvetica Neue', Arial, sans-serif; font-size: 14px;">
+<div class="elementor-widget-container" style="box-sizing: border-box; transition: background .3s,border .3s,border-radius .3s,box-shadow .3s,transform var(--e-transform-transition-duration,.4s);">
+<div class="elementor-divider" style="box-sizing: border-box; display: flex; text-align: center; padding-block: 15px;">
+<table width="0" style="border-spacing: 0px; width: 575px; text-align: left; margin-bottom: 20px; padding: 10px; vertical-align: top; border: 1px solid #cdcdcd;">
+<tbody style="box-sizing: border-box;">
+<tr style="box-sizing: border-box;">
+<td width="57" style="box-sizing: border-box; padding: 10px; vertical-align: top; border: 1px solid #cdcdcd;">
+<p style="box-sizing: border-box; margin: 0px;">No. </p>
+</td>
+<td width="350" style="box-sizing: border-box; padding: 10px; vertical-align: top; border: 1px solid #cdcdcd;">
+<p style="box-sizing: border-box; margin: 0px;">Himpunan Mahasiswa </p>
+</td>
+</tr>
+<tr style="box-sizing: border-box;">
+<td width="57" style="box-sizing: border-box; padding: 10px; vertical-align: top; border: 1px solid #cdcdcd;">
+<p style="box-sizing: border-box; margin: 0px;">   1 </p>
+</td>
+<td width="350" style="box-sizing: border-box; padding: 10px; vertical-align: top; border: 1px solid #cdcdcd;">
+<p style="box-sizing: border-box; margin: 0px;">D4 Pengobatan Tradisional </p>
+</td>
+</tr>
+<tr style="box-sizing: border-box;">
+<td width="57" style="box-sizing: border-box; padding: 10px; vertical-align: top; border: 1px solid #cdcdcd;">
+<p style="box-sizing: border-box; margin: 0px;">   2 </p>
+</td>
+<td width="350" style="box-sizing: border-box; padding: 10px; vertical-align: top; border: 1px solid #cdcdcd;">
+<p style="box-sizing: border-box; margin: 0px;">D4 Fisioterapi </p>
+</td>
+</tr>
+<tr style="box-sizing: border-box;">
+<td width="57" style="box-sizing: border-box; padding: 10px; vertical-align: top; border: 1px solid #cdcdcd;">
+<p style="box-sizing: border-box; margin: 0px;">   3 </p>
+</td>
+<td width="350" style="box-sizing: border-box; padding: 10px; vertical-align: top; border: 1px solid #cdcdcd;">
+<p style="box-sizing: border-box; margin: 0px;">D4 Teknologi Radiologi Pencitraan </p>
+</td>
+</tr>
+<tr style="box-sizing: border-box;">
+<td width="57" style="box-sizing: border-box; padding: 10px; vertical-align: top; border: 1px solid #cdcdcd;">
+<p style="box-sizing: border-box; margin: 0px;">   4 </p>
+</td>
+<td width="350" style="box-sizing: border-box; padding: 10px; vertical-align: top; border: 1px solid #cdcdcd;">
+<p style="box-sizing: border-box; margin: 0px;">D4 Teknologi Laboratorium Medis </p>
+</td>
+</tr>
+<tr style="box-sizing: border-box;">
+<td width="57" style="box-sizing: border-box; padding: 10px; vertical-align: top; border: 1px solid #cdcdcd;">
+<p style="box-sizing: border-box; margin: 0px;">   5 </p>
+</td>
+<td width="350" style="box-sizing: border-box; padding: 10px; vertical-align: top; border: 1px solid #cdcdcd;">
+<p style="box-sizing: border-box; margin: 0px;">D3 Teknik Gigi </p>
+</td>
+</tr>
+<tr style="box-sizing: border-box;">
+<td width="57" style="box-sizing: border-box; padding: 10px; vertical-align: top; border: 1px solid #cdcdcd;">
+<p style="box-sizing: border-box; margin: 0px;">   6 </p>
+</td>
+<td width="350" style="box-sizing: border-box; padding: 10px; vertical-align: top; border: 1px solid #cdcdcd;">
+<p style="box-sizing: border-box; margin: 0px;">D3 Paramedik Veteriner </p>
+</td>
+</tr>
+<tr style="box-sizing: border-box;">
+<td width="57" style="box-sizing: border-box; padding: 10px; vertical-align: top; border: 1px solid #cdcdcd;">
+<p style="box-sizing: border-box; margin: 0px;">   7 </p>
+</td>
+<td width="350" style="box-sizing: border-box; padding: 10px; vertical-align: top; border: 1px solid #cdcdcd;">
+<p style="box-sizing: border-box; margin: 0px;">D4 Keselamatan dan Kesehatan Kerja </p>
+</td>
+</tr>
+<tr style="box-sizing: border-box;">
+<td width="57" style="box-sizing: border-box; padding: 10px; vertical-align: top; border: 1px solid #cdcdcd;">
+<p style="box-sizing: border-box; margin: 0px;">   8 </p>
+</td>
+<td width="350" style="box-sizing: border-box; padding: 10px; vertical-align: top; border: 1px solid #cdcdcd;">
+<p style="box-sizing: border-box; margin: 0px;">D3 Keprawatan </p>
+</td>
+</tr>
+<tr style="box-sizing: border-box;">
+<td width="57" style="box-sizing: border-box; padding: 10px; vertical-align: top; border: 1px solid #cdcdcd;">
+<p style="box-sizing: border-box; margin: 0px;">   9 </p>
+</td>
+<td width="350" style="box-sizing: border-box; padding: 10px; vertical-align: top; border: 1px solid #cdcdcd;">
+<p style="box-sizing: border-box; margin: 0px;">D4 Teknologi Rekayasa Instrumentasi dan Kontrol </p>
+</td>
+</tr>
+<tr style="box-sizing: border-box;">
+<td width="57" style="box-sizing: border-box; padding: 10px; vertical-align: top; border: 1px solid #cdcdcd;">
+<p style="box-sizing: border-box; margin: 0px;">  10 </p>
+</td>
+<td width="350" style="box-sizing: border-box; padding: 10px; vertical-align: top; border: 1px solid #cdcdcd;">
+<p style="box-sizing: border-box; margin: 0px;">D3 Sistem Informasi </p>
+</td>
+</tr>
+<tr style="box-sizing: border-box;">
+<td width="57" style="box-sizing: border-box; padding: 10px; vertical-align: top; border: 1px solid #cdcdcd;">
+<p style="box-sizing: border-box; margin: 0px;">  11 </p>
+</td>
+<td width="350" style="box-sizing: border-box; padding: 10px; vertical-align: top; border: 1px solid #cdcdcd;">
+<p style="box-sizing: border-box; margin: 0px;">D3 Perpustakaan </p>
+</td>
+</tr>
+<tr style="box-sizing: border-box;">
+<td width="57" style="box-sizing: border-box; padding: 10px; vertical-align: top; border: 1px solid #cdcdcd;">
+<p style="box-sizing: border-box; margin: 0px;">  12 </p>
+</td>
+<td width="350" style="box-sizing: border-box; padding: 10px; vertical-align: top; border: 1px solid #cdcdcd;">
+<p style="box-sizing: border-box; margin: 0px;">D3 Manajemen Pemasaran </p>
+</td>
+</tr>
+<tr style="box-sizing: border-box;">
+<td width="57" style="box-sizing: border-box; padding: 10px; vertical-align: top; border: 1px solid #cdcdcd;">
+<p style="box-sizing: border-box; margin: 0px;">  13 </p>
+</td>
+<td width="350" style="box-sizing: border-box; padding: 10px; vertical-align: top; border: 1px solid #cdcdcd;">
+<p style="box-sizing: border-box; margin: 0px;">D4 Perbankan dan Keuangan </p>
+</td>
+</tr>
+<tr style="box-sizing: border-box;">
+<td width="57" style="box-sizing: border-box; padding: 10px; vertical-align: top; border: 1px solid #cdcdcd;">
+<p style="box-sizing: border-box; margin: 0px;">  14 </p>
+</td>
+<td width="350" style="box-sizing: border-box; padding: 10px; vertical-align: top; border: 1px solid #cdcdcd;">
+<p style="box-sizing: border-box; margin: 0px;">D3 Akutansi </p>
+</td>
+</tr>
+<tr style="box-sizing: border-box;">
+<td width="57" style="box-sizing: border-box; padding: 10px; vertical-align: top; border: 1px solid #cdcdcd;">
+<p style="box-sizing: border-box; margin: 0px;">  15 </p>
+</td>
+<td width="350" style="box-sizing: border-box; padding: 10px; vertical-align: top; border: 1px solid #cdcdcd;">
+<p style="box-sizing: border-box; margin: 0px;">D3 Perpajakan </p>
+</td>
+</tr>
+<tr style="box-sizing: border-box;">
+<td width="57" style="box-sizing: border-box; padding: 10px; vertical-align: top; border: 1px solid #cdcdcd;">
+<p style="box-sizing: border-box; margin: 0px;">  16 </p>
+</td>
+<td width="350" style="box-sizing: border-box; padding: 10px; vertical-align: top; border: 1px solid #cdcdcd;">
+<p style="box-sizing: border-box; margin: 0px;">D3 Administrasi Perkantoran </p>
+</td>
+</tr>
+<tr style="box-sizing: border-box;">
+<td width="57" style="box-sizing: border-box; padding: 10px; vertical-align: top; border: 1px solid #cdcdcd;">
+<p style="box-sizing: border-box; margin: 0px;">  17 </p>
+</td>
+<td width="350" style="box-sizing: border-box; padding: 10px; vertical-align: top; border: 1px solid #cdcdcd;">
+<p style="box-sizing: border-box; margin: 0px;">D3 Bahasa Inggris </p>
+</td>
+</tr>
+<tr style="box-sizing: border-box;">
+<td width="57" style="box-sizing: border-box; padding: 10px; vertical-align: top; border: 1px solid #cdcdcd;">
+<p style="box-sizing: border-box; margin: 0px;">  18 </p>
+</td>
+<td width="350" style="box-sizing: border-box; padding: 10px; vertical-align: top; border: 1px solid #cdcdcd;">
+<p style="box-sizing: border-box; margin: 0px;">D4 Manajemen Perhotelan </p>
+</td>
+</tr>
+<tr style="box-sizing: border-box;">
+<td width="57" style="box-sizing: border-box; padding: 10px; vertical-align: top; border: 1px solid #cdcdcd;">
+<p style="box-sizing: border-box; margin: 0px;">  19 </p>
+</td>
+<td width="350" style="box-sizing: border-box; padding: 10px; vertical-align: top; border: 1px solid #cdcdcd;">
+<p style="box-sizing: border-box; margin: 0px;">D4 Pariwisata </p>
+</td>
+</tr>
+</tbody>
+</table>
+ </div>
+<table width="0" style="border-spacing: 0px; width: 575px; margin-bottom: 20px; padding: 10px; vertical-align: top; border: 1px solid #cdcdcd;">
+<tbody style="box-sizing: border-box;">
+<tr style="box-sizing: border-box;">
+<td width="47" style="box-sizing: border-box; padding: 10px; vertical-align: top; border: 1px solid #cdcdcd;">
+<p style="box-sizing: border-box; margin: 0px;">No. </p>
+</td>
+<td width="207" style="box-sizing: border-box; padding: 10px; vertical-align: top; border: 1px solid #cdcdcd;">
+<p style="box-sizing: border-box; margin: 0px;">Ormawa </p>
+</td>
+</tr>
+<tr style="box-sizing: border-box;">
+<td width="47" style="box-sizing: border-box; padding: 10px; vertical-align: top; border: 1px solid #cdcdcd;">
+<p style="box-sizing: border-box; margin: 0px;">1. </p>
+</td>
+<td width="207" style="box-sizing: border-box; padding: 10px; vertical-align: top; border: 1px solid #cdcdcd;">
+<p style="box-sizing: border-box; margin: 0px;">Duta Vokasi </p>
+</td>
+</tr>
+<tr style="box-sizing: border-box;">
+<td width="47" style="box-sizing: border-box; padding: 10px; vertical-align: top; border: 1px solid #cdcdcd;">
+<p style="box-sizing: border-box; margin: 0px;">2. </p>
+</td>
+<td width="207" style="box-sizing: border-box; padding: 10px; vertical-align: top; border: 1px solid #cdcdcd;">
+<p style="box-sizing: border-box; margin: 0px;">Vokasi Akustik </p>
+</td>
+</tr>
+<tr style="box-sizing: border-box;">
+<td width="47" style="box-sizing: border-box; padding: 10px; vertical-align: top; border: 1px solid #cdcdcd;">
+<p style="box-sizing: border-box; margin: 0px;">3.  </p>
+</td>
+<td width="207" style="box-sizing: border-box; padding: 10px; vertical-align: top; border: 1px solid #cdcdcd;">
+<p style="box-sizing: border-box; margin: 0px;">UKF Basket </p>
+</td>
+</tr>
+<tr style="box-sizing: border-box;">
+<td width="47" style="box-sizing: border-box; padding: 10px; vertical-align: top; border: 1px solid #cdcdcd;">
+<p style="box-sizing: border-box; margin: 0px;">4.  </p>
+</td>
+<td width="207" style="box-sizing: border-box; padding: 10px; vertical-align: top; border: 1px solid #cdcdcd;">
+<p style="box-sizing: border-box; margin: 0px;">UKF Bola Voli </p>
+</td>
+</tr>
+<tr style="box-sizing: border-box;">
+<td width="47" style="box-sizing: border-box; padding: 10px; vertical-align: top; border: 1px solid #cdcdcd;">
+<p style="box-sizing: border-box; margin: 0px;">5. </p>
+</td>
+<td width="207" style="box-sizing: border-box; padding: 10px; vertical-align: top; border: 1px solid #cdcdcd;">
+<p style="box-sizing: border-box; margin: 0px;">UKF Sepak Bola </p>
+</td>
+</tr>
+<tr style="box-sizing: border-box;">
+<td width="47" style="box-sizing: border-box; padding: 10px; vertical-align: top; border: 1px solid #cdcdcd;">
+<p style="box-sizing: border-box; margin: 0px;">6. </p>
+</td>
+<td width="207" style="box-sizing: border-box; padding: 10px; vertical-align: top; border: 1px solid #cdcdcd;">
+<p style="box-sizing: border-box; margin: 0px;">UKF Kerohanian Islam </p>
+</td>
+</tr>
+<tr style="box-sizing: border-box;">
+<td width="47" style="box-sizing: border-box; padding: 10px; vertical-align: top; border: 1px solid #cdcdcd;">
+<p style="box-sizing: border-box; margin: 0px;">7.  </p>
+</td>
+<td width="207" style="box-sizing: border-box; padding: 10px; vertical-align: top; border: 1px solid #cdcdcd;">
+<p style="box-sizing: border-box; margin: 0px;">UKF Tari </p>
+</td>
+</tr>
+</tbody>
+</table>
+<div class="elementor-divider" style="box-sizing: border-box; display: flex; text-align: center; padding-block: 15px;">
+<h1 style="box-sizing: border-box; margin: 0px; color: #333333; font-family: Montserrat, sans-serif; font-size: 14px;"></h1>
+</div>
+<div class="elementor-divider" style="box-sizing: border-box; display: flex; text-align: center; padding-block: 15px;">
+<p style="box-sizing: border-box; margin: 0px; color: #333333; font-family: Montserrat, sans-serif; font-size: 14px;"></p>
+<h1 style="box-sizing: border-box; margin: 0px; color: #333333; font-family: Montserrat, sans-serif; font-size: 14px;"></h1>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<h4 style="font-family: Montserrat, sans-serif; font-size: 20px; box-sizing: border-box; margin: 0px; text-align: center;"></h4>
+<p style="box-sizing: border-box; margin: 0px 0px 15px; color: #ffffff; font-family: Montserrat, sans-serif; font-weight: 600; text-align: center; background-color: #0f1377;"></p>
+</div>
+</div>
+</div>

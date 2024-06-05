@@ -1,0 +1,5 @@
+<p></p>
+<div class="container">
+<h1>Jadwal Perkuliahan Prodi D4 Teknologi Laboratorium Medik</h1>
+<p>Jadwal perkuliahan Prodi D4 Teknologi Laboratorium Medik dapat diunduh pada tautan di bawah ini:</p>
+<a href="http://analis.vokasi.unair.ac.id/wp-content/uploads/2023/08/Jadwal-Gasal-2023-2024-rev-25-July.pdf" class="download-link" download="">1. Jadwal Gasal 2023-2024</a> <br><a href="http://analis.vokasi.unair.ac.id/wp-content/uploads/2024/03/jadwal-TLM-GENAP-2023-2024-REVISI-1.pdf" class="download-link" download=""> 2. Jadwal Genap 2023-2024</a></div>
